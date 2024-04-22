@@ -817,6 +817,10 @@ hr {
         width: 81%;
     }
 
+    .projects-image .new {
+        width: 90%;
+    }
+
     .projects-attribute {
         height: 185px;
     }
