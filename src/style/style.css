@@ -132,7 +132,7 @@ body {
 }
 
 .sosmed img {
-    margin: 0px 15px 0;
+    margin: 0px 15px 0px;
     width: 40px;
     box-shadow: 5px 5px 5px #b3b3b3,
         -5px -5px 5px #ffffff;
